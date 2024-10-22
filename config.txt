@@ -1,0 +1,2 @@
+angleChange=40
+sensorReach=20
